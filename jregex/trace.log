@@ -1,0 +1,6 @@
+2018-01-28 17:21:38,300 FATAL      main:1:Jregex:main:100 - org.apache.commons.cli.AlreadySelectedException: The option 'e' was specified but an option from this group has already been selected: 'h'
+2018-01-28 17:21:53,065 FATAL      main:1:Jregex:main:100 - The option 'e' was specified but an option from this group has already been selected: 'h'
+2018-01-28 17:37:17,410 FATAL      main:1:Jregex:main:134 - The option 'h' was specified but an option from this group has already been selected: 'v'
+2018-01-28 20:14:15,963 FATAL      main:1:Jregex:main:194 - OPTION ERROR: Missing required option: [-e The regex mattern to match., -h Print help., -v Print version.]
+2018-01-28 20:20:36,421 FATAL      main:1:Jregex:main:194 - OPTION ERROR: Missing argument for option: e
+2018-01-28 20:29:14,933 FATAL      main:1:Jregex:main:202 - OPTION ERROR: Unrecognized option: -e[e]
